@@ -118,7 +118,6 @@ module datetime_module
   endinterface datetime
 
   type :: timedelta
-    private
 
     integer :: days = 0
     integer :: hours = 0
